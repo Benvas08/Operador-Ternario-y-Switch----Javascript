@@ -25,6 +25,7 @@ Usá el ternario para guardar en otra variable estado el texto "Conectado" si es
 - let edad = 12;
 - let acceso = (edad >= 13)? : ;
 - console.log(acceso);
+
 Debe mostrar "Permitido" si la edad es 13 o más, o "Restringido" si no.
 
 ## Parte B: Instrucción switch
@@ -32,27 +33,27 @@ Debe mostrar "Permitido" si la edad es 13 o más, o "Restringido" si no.
 Ejercicios
 
 1. Dado let dia = "lunes", escribí un switch que muestre:
- “Inicio de semana” si es lunes,
- “Mitad de semana” si es miércoles,
- “Fin de semana” si es sábado o domingo,
- y “Día común” para los demás.
+- “Inicio de semana” si es lunes,
+- “Mitad de semana” si es miércoles,
+- “Fin de semana” si es sábado o domingo,
+- y “Día común” para los demás.
 
 2. Creá un switch con la variable color = "verde" que muestre:
- “Sigue” si es verde,
- “Precaución” si es amarillo,
- “Detente” si es rojo,
- y “Color desconocido” si no coincide.
+-  “Sigue” si es verde,
+-  “Precaución” si es amarillo,
+-  “Detente” si es rojo,
+-  y “Color desconocido” si no coincide.
 
 3. Usá switch con mes = "enero" para mostrar cuántos días tiene el mes (31, 30 o 28/29).
 
 4. Creá un switch con nota = "B" que muestre:
- “Excelente” si es "A",
- “Bueno” si es "B",
- “Suficiente” si es "C",
- y “Reprobado” si no coincide.
+- “Excelente” si es "A",
+- “Bueno” si es "B",
+- “Suficiente” si es "C",
+- y “Reprobado” si no coincide.
 
 6. Dado opcion = 3, hacé un menú simple con switch que muestre:
- “Inicio” si es 1,
- “Configuración” si es 2,
- “Salir” si es 3,
- y “Opción no válida” en default
+- “Inicio” si es 1,
+- “Configuración” si es 2,
+- “Salir” si es 3,
+- y “Opción no válida” en default
